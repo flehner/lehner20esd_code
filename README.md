@@ -1,6 +1,6 @@
 Collection of scripts to create Figs. in Lehner et al., 2020, https://doi.org/10.5194/esd-11-491-2020
 
-Author: Flavio Lehner, May 2020, flehner@ucar.edu
+Author: Flavio Lehner, May 2020, flehner@ucar.edu or flavio.lehner@cornell.edu
 
 
 Requirements:
